@@ -1,0 +1,21 @@
+h1 {
+	font-style: bold;
+	color: white;
+	font-size: 45px
+}
+
+#AboutMe {
+	font-style: italic;
+	color: cyan;
+	font-size: 45px
+}
+
+body {
+    background-image: url("pixel.png");
+    background-color: #cccccc;
+}
+
+
+.custom {
+   cursor:url(http://a.deviantart.net/avatars/b/a/bajamemelord.gif?2), auto;
+}
